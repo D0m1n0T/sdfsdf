@@ -120,7 +120,7 @@ def on_press(key):
 
 # ============================================================
 #  BELÉPÉSI PONT  –  if __name__ == "__main__"
-# ============================================================
+# ===========================================================
 # Ez a sor biztosítja, hogy az alábbi kód CSAK akkor fusson le,
 # ha közvetlenül futtatják a fájlt (pl. python autoclicker.py),
 # de NE fusson le, ha másik Python-fájl importálja ezt modulként.
