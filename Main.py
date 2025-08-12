@@ -117,9 +117,9 @@ def on_press(key):
         return False   # False visszatérési értékkel jelezzük a Listenernek: állj le!
         # Alternatíva: os._exit(0) – azonnali, durva kilépés; raise SystemExit – szebb
 
-
+# haha
 # ============================================================
-#  BELÉPÉSI PONT  –  if __name__ == "__main__"
+#  BELÉPÉSI PONT  –  if __name__ == "__main__"   jaja
 # ===========================================================
 # Ez a sor biztosítja, hogy az alábbi kód CSAK akkor fusson le,
 # ha közvetlenül futtatják a fájlt (pl. python autoclicker.py),
